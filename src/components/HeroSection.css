@@ -1,0 +1,31 @@
+.hero-container{
+    background-image: url(../assets/images/game\ image\ play.png);
+    background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+    height: 1000px;
+    width: 100%;
+    display: flex;
+  margin-top: -250px;
+    align-items: center;
+    margin-bottom: -100px;
+
+    
+}
+
+.hero-container h1{
+    color: #000;
+    font-size: 100px;
+    margin-bottom: 130px;
+    margin-left: 370px;
+    margin-right: 100px;
+    display: inline-block;
+
+}
+
+
+
+
+.fas-fa-trophy{
+margin-left: 4px;
+}
